@@ -1,4 +1,4 @@
-<h1 align="center"> <img align="center" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="175px" height="60px"> I'm Agustin Gutierrez </h1>
+<h1 align="center"> <img align="center" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="225px" height="70px"> I'm Agustin Gutierrez </h1>
 <h3 align="center">A passionate fullstack developer from Argentina </h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aggutierrez.com/)
 
-- 📫 How to reach me **agustinguti123@gmail.com**
+- 📫 To reach me send an email to: **agustinguti123@gmail.com**
 
 &nbsp;
 
