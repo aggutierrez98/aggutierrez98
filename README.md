@@ -6,7 +6,7 @@
   <a href = "mailto: agustinguti123@gmail.com">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
   </a>
-  <a href = "https://www.linkedin.com/in/agustin-gutierrez-59993020b">
+  <a href = "https://www.linkedin.com/in/aggutierrez">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" />
   </a>
 </p>
