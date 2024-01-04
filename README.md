@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://aggutierrez.com/)
 
-- 📫 To reach me send an email to: **agustinguti123@gmail.com**
+- 📫 To reach me send an email to: **aggutierrez.dev@gmail.com**
 
 &nbsp;
 
