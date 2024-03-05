@@ -2,7 +2,7 @@
 <!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148297311-9027ed12-f547-4ede-a8a8-cdb5dbe1c258.png) -->
 <!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148297512-c9e4a518-22b7-40eb-a31f-3bd11bb7bff8.png) -->
 <!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148299813-3803a204-0688-4dd2-b106-b2a458ac6b1d.png) -->
-![Hero Photo]([https://gist.github.com/assets/79987126/fa342b6e-b867-48c7-815e-221c0c17e56c](https://github-production-user-asset-6210df.s3.amazonaws.com/79987126/310254829-fa342b6e-b867-48c7-815e-221c0c17e56c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240305T201629Z&X-Amz-Expires=300&X-Amz-Signature=d7fc4115b81d88e9956c244cebb0153a39ecc9ba8c16b97cbc3d2617e1acd291&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0))
+![Hero Photo]([https://gist.github.com/assets/79987126/fa342b6e-b867-48c7-815e-221c0c17e56c](https://github-production-user-asset-6210df.s3.amazonaws.com/79987126/310254829-fa342b6e-b867-48c7-815e-221c0c17e56c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240305T201629Z&X-Amz-Expires=300&X-Amz-Signature=d7fc4115b81d88e9956c244cebb0153a39ecc9ba8c16b97cbc3d2617e1acd291&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0]))
 
 ## Hi there 👋.  I'm Agustin Gutierrez 
 
@@ -48,7 +48,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
   </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src=" https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" width="32" height="32"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" width="32" height="32"/>
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="32" height="32"/>
