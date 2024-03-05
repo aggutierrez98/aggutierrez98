@@ -1,81 +1,81 @@
-<h1 align="center"> <img align="center" src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="225px" height="70px"> I'm Agustin Gutierrez </h1>
-<h3 align="center">A passionate fullstack developer from Argentina </h3>
+<!-- ![Hero Photo](https://github.com/Colo-Codes/colo-codes/blob/main/55628EB3-D8EC-4C0C-A7CA-CFAE36865529-325-0000000127A56B4E.jpeg?raw=true) -->
+<!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148297311-9027ed12-f547-4ede-a8a8-cdb5dbe1c258.png) -->
+<!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148297512-c9e4a518-22b7-40eb-a31f-3bd11bb7bff8.png) -->
+<!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148299813-3803a204-0688-4dd2-b106-b2a458ac6b1d.png) -->
+![Hero Photo](https://github-production-user-asset-6210df.s3.amazonaws.com/79987126/310254829-fa342b6e-b867-48c7-815e-221c0c17e56c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240305T194019Z&X-Amz-Expires=300&X-Amz-Signature=b8275a04e8f402427c0d87c67d22228bf98cdb22ace252ea59f09ad60b76a237&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href = "mailto: agustinguti123@gmail.com">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40" />
-  </a>
-  <a href = "https://www.linkedin.com/in/aggutierrez">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="40" />
-  </a>
-</p>
+## Hi there 👋.  I'm Agustin Gutierrez 
 
-<img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="30px">&nbsp;***About me***
-
-- 🌱 I’m currently learning **Docker && Kubernetes**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://aggutierrez.com/)
-
-- 📫 To reach me send an email to: **aggutierrez.dev@gmail.com**
-
-&nbsp;
-
-<img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="30px">&nbsp;***My working tools***
-<p align="left">
-
+<img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="20px" style="margin-top: 15px; margin-right: 10px;">***My working tools:***
 <p align="left"> 
+  <a href="https://developer.android.com" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="32" height="32"/>       
+  </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="32" height="32"/>   
+  </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="32" height="32"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="32" height="32"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/>
   </a> 
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react-native" width="32" height="32"/>
   </a> 
-  <a href="https://developer.android.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>       </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"> </a> <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>   
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" width="32" height="32"/>
   </a>  
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="32" height="32"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="32" height="32"/> 
   </a>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="32" height="32"/> 
   </a> 
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://aws.amazon.com/es/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="32" height="32"/> 
   </a> 
- </p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src=" https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongodb" width="32" height="32"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql" width="32" height="32"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/> 
+  </a> 
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="graphql" width="32" height="32"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="32" height="32"/> 
+  </a> 
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" width="32" height="32"/> 
+  </a> 
+</p>
   
- </p>
-  
-&nbsp;
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My git stats***
+<img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif" width="20px" style="margin-top: 15px; margin-right: 10px">***About me:***
+- 🌱 I’m currently learning Langchain & PrismaORM.
+- 👯 I’m looking to collaborate on any Javascript, NodeJS, ReactJS or Angular project.
+- 💬 Ask me about: how I discovered the programming world and turned my carrer to web development.
+- 📫 To reach me send an email to: **aggutierrez.dev@gmail.com**
+- 👨‍💻 All of my projects are available at **[My portfolio](https://aggutierrez.com/)**
 
-<div align="left">
-  <a href="https://github.com/aggutierrez98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aggutierrez98&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggutierrez98&layout=compact&langs_count=7&theme=aura_dark"/>
-</div>
+
+<img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif" width="20px" style="margin-top: 20px; margin-right: 10px;">***Follow me on:***
+<p align="left"> <a href="https://www.linkedin.com/in/aggutierrez/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Agustin Gutierrez's linkedin profile" /></a> </p>
+
