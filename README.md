@@ -1,9 +1,4 @@
-<!-- ![Hero Photo](https://github.com/Colo-Codes/colo-codes/blob/main/55628EB3-D8EC-4C0C-A7CA-CFAE36865529-325-0000000127A56B4E.jpeg?raw=true) -->
-<!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148297311-9027ed12-f547-4ede-a8a8-cdb5dbe1c258.png) -->
-<!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148297512-c9e4a518-22b7-40eb-a31f-3bd11bb7bff8.png) -->
-<!-- ![Hero Photo](https://user-images.githubusercontent.com/12278078/148299813-3803a204-0688-4dd2-b106-b2a458ac6b1d.png) -->
-![Hero Photo](https://private-user-images.githubusercontent.com/79987126/310254829-fa342b6e-b867-48c7-815e-221c0c17e56c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk2NzAxNzAsIm5iZiI6MTcwOTY2OTg3MCwicGF0aCI6Ii83OTk4NzEyNi8zMTAyNTQ4MjktZmEzNDJiNmUtYjg2Ny00OGM3LTgxNWUtMjIxYzBjMTdlNTZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA1VDIwMTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliYTBmNTIxOTdhOWNmY2MzOGMxNDBjNzU3YTdiM2E4MGQ1MGEzNzA1MWZhZjgwZTcxNTU2ZmU5ZTcyZjY5NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.A799-wd-AKAuX42q942Z45GOpisbJDnQt6x5rxe7y-o)
-
+![Hero Photo](https://github-production-user-asset-6210df.s3.amazonaws.com/79987126/310254829-fa342b6e-b867-48c7-815e-221c0c17e56c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240307%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240307T035740Z&X-Amz-Expires=300&X-Amz-Signature=b5cb830f8089c8acfcc7b3265bd0305c457a34e4d7b14a051dcb9d2d8f4e6490&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0)
 ## Hi there 👋.  I'm Agustin Gutierrez 
 
 <img src="https://media.giphy.com/media/0lfqHNZwWM1hOvJ9CX/giphy.gif" width="20px" style="margin-top: 15px; margin-right: 10px;">***My working tools:***
